@@ -1,0 +1,4 @@
+>> python3.13 client.py
+{"productID":"XYZ-12345","name":"Amayon Basics Wipes","available":210}
+{"productID":"XYZ-23456","name":"Amayon Basics Paper Towels","available":0}
+{"error":"Product not found"}
